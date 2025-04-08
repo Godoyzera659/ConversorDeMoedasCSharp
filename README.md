@@ -1,7 +1,7 @@
 # 💱 Conversor de Moedas em C#
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![.NET](https://img.shields.io/badge/.NET-6.0-blue)
+![.NET](https://img.shields.io/badge/.NET-9.0-blue)
 ![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 
 Um conversor de moedas simples, feito em C#, que permite ao usuário inserir um valor em Reais (BRL) e escolher entre mais de 10 moedas diferentes para conversão, com base nas cotações do dia **07/04/2025**.
@@ -37,9 +37,10 @@ Este projeto foi estruturado com base em princípios de boas práticas de progra
 ✅ Preparado para futura integração com APIs de câmbio reais
 
 🚀 Tecnologias Utilizadas
-.NET 6
-
+.NET 9
 C# (console app)
+Git
+GitHub
 
 📂 Estrutura do Projeto
 Copiar
