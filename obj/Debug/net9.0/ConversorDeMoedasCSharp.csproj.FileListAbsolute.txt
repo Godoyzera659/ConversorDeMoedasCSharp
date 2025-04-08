@@ -1,0 +1,15 @@
+C:\Projetos\ConversorDeMoedasCSharp\bin\Debug\net9.0\ConversorDeMoedasCSharp.exe
+C:\Projetos\ConversorDeMoedasCSharp\bin\Debug\net9.0\ConversorDeMoedasCSharp.deps.json
+C:\Projetos\ConversorDeMoedasCSharp\bin\Debug\net9.0\ConversorDeMoedasCSharp.runtimeconfig.json
+C:\Projetos\ConversorDeMoedasCSharp\bin\Debug\net9.0\ConversorDeMoedasCSharp.dll
+C:\Projetos\ConversorDeMoedasCSharp\bin\Debug\net9.0\ConversorDeMoedasCSharp.pdb
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.AssemblyInfoInputs.cache
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.AssemblyInfo.cs
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.csproj.CoreCompileInputs.cache
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.sourcelink.json
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.dll
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\refint\ConversorDeMoedasCSharp.dll
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.pdb
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ConversorDeMoedasCSharp.genruntimeconfig.cache
+C:\Projetos\ConversorDeMoedasCSharp\obj\Debug\net9.0\ref\ConversorDeMoedasCSharp.dll
